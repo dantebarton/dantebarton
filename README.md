@@ -10,8 +10,6 @@ As a proactive learner, I aim to constantly explore new and upcoming technologie
 
 **Get in Touch/Connect:**
 ---------------------------------------------------------------------------
-![CITYPNG COM Black   White HD Gmail Envelope Symbol Logo Icon - 2000x2000](https://github.com/user-attachments/assets/a5ed4d64-19f3-4948-8163-97e07fa9cf0d)[1]
-![CITYPNG COM HD LinkedIn Square Black Icon Transparent Background - 600x600](https://github.com/user-attachments/assets/c56fd017-570f-4a4d-a4bd-29654c11b862)[2]
+| <a href="mailto:dantebartona.j@gmail.com"><img src="https://github.com/user-attachments/assets/fd3de068-2ae9-46bb-a4b7-ea4ba0976318" alt="Email" width="40" height="40" /></a> | <a href="https://www.linkedin.com/in/dante-barton/"><img src="https://github.com/user-attachments/assets/34be6d64-f803-4172-bc83-1402aaafc331" alt="LinkedIn" width="40" height="40" /></a> |
+|---|---|
 
-[1]:  mailto: dantebartona.j@gmail.com
-[2]:  https://www.linkedin.com/in/dante-barton/
